@@ -14,5 +14,12 @@ namespace VillaApi.Controllers
         {
             return VillaStore.villaList;
         }
+
+
+        [HttpGet("id")]
+        public VillaDto GetVilla(int id)
+        {
+            return VillaStore.villaList.FirstOrDefault(u => u.Id == id);
+        }
     }
 }

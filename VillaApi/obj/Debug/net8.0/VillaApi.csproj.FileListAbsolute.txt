@@ -30,3 +30,4 @@ C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\refint\VillaApi.d
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\VillaApi.pdb
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\VillaApi.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\ref\VillaApi.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\VillaApi.sourcelink.json
