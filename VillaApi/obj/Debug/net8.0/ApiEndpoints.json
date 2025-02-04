@@ -101,6 +101,7 @@
         ],
         "StatusCode": 404
       }
-    ]
+    ],
+    "EndpointName": "GetVilla"
   }
 ]

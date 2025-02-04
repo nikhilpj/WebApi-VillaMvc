@@ -52,7 +52,7 @@ namespace VillaApi.Controllers
             }
             villaDto.Id = VillaStore.villaList.OrderByDescending(u => u.Id).FirstOrDefault().Id + 1;
             VillaStore.villaList.Add(villaDto);
-            return CreatedAtRoute("GetVilla",villaDto);
+            return CreatedAtRoute("GetVilla",new {id = villaDto.Id},villaDto);
         }
     }
 }
