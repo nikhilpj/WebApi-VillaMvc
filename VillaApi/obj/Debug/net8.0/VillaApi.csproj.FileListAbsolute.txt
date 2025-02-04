@@ -31,3 +31,7 @@ C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\VillaApi.pdb
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\VillaApi.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\ref\VillaApi.dll
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\obj\Debug\net8.0\VillaApi.sourcelink.json
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
