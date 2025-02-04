@@ -61,22 +61,6 @@
   },
   {
     "ContainingType": "VillaApi.Controllers.VillaApiController",
-    "Method": "DeleteVilla",
-    "RelativePath": "api/VillaApi",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "VillaApi.Controllers.VillaApiController",
     "Method": "GetVilla",
     "RelativePath": "api/VillaApi/{id}",
     "HttpMethod": "GET",
@@ -119,5 +103,78 @@
       }
     ],
     "EndpointName": "GetVilla"
+  },
+  {
+    "ContainingType": "VillaApi.Controllers.VillaApiController",
+    "Method": "DeleteVilla",
+    "RelativePath": "api/VillaApi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ],
+    "EndpointName": "DeleteVilla"
+  },
+  {
+    "ContainingType": "VillaApi.Controllers.VillaApiController",
+    "Method": "UpdateVilla",
+    "RelativePath": "api/VillaApi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "villaDto",
+        "Type": "VillaApi.Models.Dto.VillaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VillaApi.Models.Dto.VillaDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "UpdateVilla"
   }
 ]

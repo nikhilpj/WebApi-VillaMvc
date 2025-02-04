@@ -78,5 +78,21 @@ namespace VillaApi.Controllers
             VillaStore.villaList.Remove(villa);
             return NoContent();
         }
+
+        [HttpPut("{id:int}", Name = "UpdateVilla")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        public ActionResult<VillaDto> UpdateVilla(int id,[FromBody] VillaDto villaDto)
+        {
+            if(villaDto == null || id != villaDto.Id)
+            {
+                return BadRequest();
+            }
+            var villa = VillaStore.villaList.FirstOrDefault(u=>u.Id == id);
+            villa.Name = villaDto.Name;
+            villa.Occupancy = villaDto.Occupancy;
+            villa.Sqft = villaDto.Sqft;
+            return NoContent();
+        }
     }
 }
