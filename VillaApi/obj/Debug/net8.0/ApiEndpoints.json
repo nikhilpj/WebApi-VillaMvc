@@ -13,7 +13,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 200
       }
@@ -39,7 +41,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 201
       },
@@ -48,7 +52,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 400
       },
@@ -79,7 +85,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 200
       },
@@ -88,7 +96,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 400
       },
@@ -97,7 +107,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 404
       }
@@ -129,7 +141,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 404
       },
@@ -138,7 +152,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 400
       }
@@ -175,7 +191,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 404
       }
@@ -207,7 +225,9 @@
         "MediaTypes": [
           "text/plain",
           "application/json",
-          "text/json"
+          "text/json",
+          "application/xml",
+          "text/xml"
         ],
         "StatusCode": 400
       },

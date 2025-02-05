@@ -35,3 +35,13 @@ C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Microsoft.AspNetC
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Lenovo\Desktop\Nikhil\Villa\VillaApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
