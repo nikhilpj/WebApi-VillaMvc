@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using VillaApi.Data;
 
@@ -11,9 +12,11 @@ using VillaApi.Data;
 namespace VillaApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250206100522_seedVillaTable")]
+    partial class seedVillaTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -70,7 +73,7 @@ namespace VillaApi.Migrations
                         {
                             Id = 1,
                             Amenity = "",
-                            CreatedDate = new DateTime(2025, 2, 6, 16, 10, 43, 413, DateTimeKind.Local).AddTicks(9273),
+                            CreatedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Details = " Russia is reportedly poised to begin serial production of a new derivative of the Iskander-M tactical ballistic missile with a range of 1,000 km. Reports about the existence of a 1,000 km range variant of the Iskander-M first surfaced in July 2024.",
                             ImageUrl = "https://www.eurasiantimes.com/wp-content/uploads/2022/03/Iskander-M.jpg?resize=696,464",
                             Name = "Royal Villa",
@@ -83,7 +86,7 @@ namespace VillaApi.Migrations
                         {
                             Id = 2,
                             Amenity = "",
-                            CreatedDate = new DateTime(2025, 2, 6, 16, 10, 43, 413, DateTimeKind.Local).AddTicks(9287),
+                            CreatedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Details = "The Iskander-M missile has a warhead that weighs between 710–800 kg. It is unlikely that the Iskander-1000 has a lighter warhead because a lighter warhead would not be effective against the types of high-value targets that the Iskander-M system is designed to attack.",
                             ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0d/Maiden_launch_of_Very_Short_Range_Air_Defence_System_%28VSHORADS%29_missile_%28cropped%29.jpg",
                             Name = "Diamond Villa",
@@ -96,7 +99,7 @@ namespace VillaApi.Migrations
                         {
                             Id = 3,
                             Amenity = "",
-                            CreatedDate = new DateTime(2025, 2, 6, 16, 10, 43, 413, DateTimeKind.Local).AddTicks(9290),
+                            CreatedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Details = "In a big boost to the ‘Make in India’ initiative, the Defense Research and Development Organisation (DRDO) demonstrated its prowess by successfully testing the Very Short Range Air Defense System (VSHORAD).",
                             ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0d/Maiden_launch_of_Very_Short_Range_Air_Defence_System_%28VSHORADS%29_missile_%28cropped%29.jpg",
                             Name = "Platinum Villa",
@@ -109,7 +112,7 @@ namespace VillaApi.Migrations
                         {
                             Id = 4,
                             Amenity = "",
-                            CreatedDate = new DateTime(2025, 2, 6, 16, 10, 43, 413, DateTimeKind.Local).AddTicks(9292),
+                            CreatedDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Details = "VSHORADS is a fourth-generation Man Portable Air Defense System (MANPAD). In general, MANPADS are lightweight anti-aircraft weapons intended for rapid deployment by ground forces. They are cost-effective, compact, and mobile, requiring only a single operator for use.",
                             ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0d/Maiden_launch_of_Very_Short_Range_Air_Defence_System_%28VSHORADS%29_missile_%28cropped%29.jpg",
                             Name = "Platinum Duper Villa",
