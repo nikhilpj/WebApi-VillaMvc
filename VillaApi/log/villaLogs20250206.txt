@@ -1,0 +1,182 @@
+2025-02-06 11:52:59.326 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2025-02-06 11:52:59.819 +05:30 [DBG] Entity Framework Core 8.0.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2025-02-06 11:53:00.691 +05:30 [DBG] 'ApplicationDbContext' disposed.
+2025-02-06 11:55:47.104 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2025-02-06 11:55:47.550 +05:30 [DBG] Entity Framework Core 8.0.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2025-02-06 11:55:47.567 +05:30 [DBG] Creating DbConnection.
+2025-02-06 11:55:47.631 +05:30 [DBG] Created DbConnection. (61ms).
+2025-02-06 11:55:47.634 +05:30 [DBG] Migrating using database 'Villa' on server 'DESKTOP-KJC6B92 (SQL Server 15.0.2000.5 - DESKTOP-KJC6B92\Lenovo)'.
+2025-02-06 11:55:47.638 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92 (SQL Server 15.0.2000.5 - DESKTOP-KJC6B92\Lenovo)'.
+2025-02-06 11:56:02.483 +05:30 [DBG] An error occurred using the connection to database 'Villa' on server 'DESKTOP-KJC6B92 (SQL Server 15.0.2000.5 - DESKTOP-KJC6B92\Lenovo)'.
+2025-02-06 11:56:02.488 +05:30 [DBG] 'ApplicationDbContext' disposed.
+2025-02-06 11:56:02.490 +05:30 [DBG] Disposing connection to database 'Villa' on server 'DESKTOP-KJC6B92 (SQL Server 15.0.2000.5 - DESKTOP-KJC6B92\Lenovo)'.
+2025-02-06 11:56:02.494 +05:30 [DBG] Disposed connection to database '' on server '' (0ms).
+2025-02-06 11:58:58.293 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2025-02-06 11:58:58.685 +05:30 [DBG] Entity Framework Core 8.0.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2025-02-06 11:58:58.699 +05:30 [DBG] Creating DbConnection.
+2025-02-06 11:58:58.731 +05:30 [DBG] 'ApplicationDbContext' disposed.
+2025-02-06 12:00:49.162 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2025-02-06 12:00:49.558 +05:30 [DBG] Entity Framework Core 8.0.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2025-02-06 12:00:49.572 +05:30 [DBG] Creating DbConnection.
+2025-02-06 12:00:49.604 +05:30 [DBG] Created DbConnection. (29ms).
+2025-02-06 12:00:49.606 +05:30 [DBG] Migrating using database 'Villa' on server 'DESKTOP-KJC6B92\Lenovo'.
+2025-02-06 12:00:49.610 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92\Lenovo'.
+2025-02-06 12:01:04.463 +05:30 [DBG] An error occurred using the connection to database 'Villa' on server 'DESKTOP-KJC6B92\Lenovo'.
+2025-02-06 12:01:04.468 +05:30 [DBG] 'ApplicationDbContext' disposed.
+2025-02-06 12:01:04.470 +05:30 [DBG] Disposing connection to database 'Villa' on server 'DESKTOP-KJC6B92\Lenovo'.
+2025-02-06 12:01:04.474 +05:30 [DBG] Disposed connection to database '' on server '' (0ms).
+2025-02-06 12:01:35.820 +05:30 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2025-02-06 12:01:36.212 +05:30 [DBG] Entity Framework Core 8.0.0 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2025-02-06 12:01:36.226 +05:30 [DBG] Creating DbConnection.
+2025-02-06 12:01:36.259 +05:30 [DBG] Created DbConnection. (30ms).
+2025-02-06 12:01:36.261 +05:30 [DBG] Migrating using database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.266 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.452 +05:30 [DBG] An error occurred using the connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.452 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.453 +05:30 [DBG] An error occurred using the connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.483 +05:30 [DBG] Creating DbConnection.
+2025-02-06 12:01:36.483 +05:30 [DBG] Created DbConnection. (0ms).
+2025-02-06 12:01:36.483 +05:30 [DBG] Opening connection to database 'master' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.499 +05:30 [DBG] Opened connection to database 'master' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:36.504 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:36.509 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (4ms).
+2025-02-06 12:01:36.511 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (8ms).
+2025-02-06 12:01:36.517 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [Villa];
+2025-02-06 12:01:36.959 +05:30 [INF] Executed DbCommand (441ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [Villa];
+2025-02-06 12:01:36.960 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:36.960 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:36.960 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:36.960 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [Villa] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2025-02-06 12:01:37.105 +05:30 [INF] Executed DbCommand (145ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [Villa] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2025-02-06 12:01:37.106 +05:30 [DBG] Closing connection to database 'master' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.113 +05:30 [DBG] Closed connection to database 'master' on server 'DESKTOP-KJC6B92' (4ms).
+2025-02-06 12:01:37.116 +05:30 [DBG] Disposing connection to database 'master' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.116 +05:30 [DBG] Disposed connection to database '' on server '' (0ms).
+2025-02-06 12:01:37.116 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.120 +05:30 [DBG] Opened connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.120 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:37.120 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.120 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.120 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-06 12:01:37.127 +05:30 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-06 12:01:37.127 +05:30 [DBG] Closing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.127 +05:30 [DBG] Closed connection to database 'Villa' on server 'DESKTOP-KJC6B92' (0ms).
+2025-02-06 12:01:37.181 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:37.181 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.181 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.181 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.182 +05:30 [DBG] Opened connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.182 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-02-06 12:01:37.194 +05:30 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2025-02-06 12:01:37.194 +05:30 [DBG] Closing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.194 +05:30 [DBG] Closed connection to database 'Villa' on server 'DESKTOP-KJC6B92' (0ms).
+2025-02-06 12:01:37.195 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.195 +05:30 [DBG] Opened connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.195 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:37.195 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.195 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.195 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-06 12:01:37.196 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2025-02-06 12:01:37.196 +05:30 [DBG] Closing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.196 +05:30 [DBG] Closed connection to database 'Villa' on server 'DESKTOP-KJC6B92' (0ms).
+2025-02-06 12:01:37.197 +05:30 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2025-02-06 12:01:37.198 +05:30 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2025-02-06 12:01:37.198 +05:30 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2025-02-06 12:01:37.198 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.198 +05:30 [DBG] Opened connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.198 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-06 12:01:37.210 +05:30 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2025-02-06 12:01:37.210 +05:30 [DBG] Closing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.210 +05:30 [DBG] Closed connection to database 'Villa' on server 'DESKTOP-KJC6B92' (0ms).
+2025-02-06 12:01:37.211 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.212 +05:30 [DBG] Opened connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.212 +05:30 [DBG] Creating DbCommand for 'ExecuteReader'.
+2025-02-06 12:01:37.212 +05:30 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2025-02-06 12:01:37.212 +05:30 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2025-02-06 12:01:37.212 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-02-06 12:01:37.216 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2025-02-06 12:01:37.218 +05:30 [DBG] Closing data reader to 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.218 +05:30 [DBG] A data reader for 'Villa' on server 'DESKTOP-KJC6B92' is being disposed after spending 1ms reading results.
+2025-02-06 12:01:37.219 +05:30 [DBG] Closing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.219 +05:30 [DBG] Closed connection to database 'Villa' on server 'DESKTOP-KJC6B92' (0ms).
+2025-02-06 12:01:37.227 +05:30 [INF] Applying migration '20250206062300_AddVillaTable'.
+2025-02-06 12:01:37.237 +05:30 [DBG] Opening connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.238 +05:30 [DBG] Opened connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.239 +05:30 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2025-02-06 12:01:37.245 +05:30 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2025-02-06 12:01:37.245 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:37.245 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.246 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.246 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Villas] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Details] nvarchar(max) NOT NULL,
+    [Rate] nvarchar(max) NOT NULL,
+    [ImageUrl] nvarchar(max) NOT NULL,
+    [Amenity] nvarchar(max) NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [UpdatedDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_Villas] PRIMARY KEY ([Id])
+);
+2025-02-06 12:01:37.252 +05:30 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Villas] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Details] nvarchar(max) NOT NULL,
+    [Rate] nvarchar(max) NOT NULL,
+    [ImageUrl] nvarchar(max) NOT NULL,
+    [Amenity] nvarchar(max) NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [UpdatedDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_Villas] PRIMARY KEY ([Id])
+);
+2025-02-06 12:01:37.252 +05:30 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2025-02-06 12:01:37.252 +05:30 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.252 +05:30 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2025-02-06 12:01:37.252 +05:30 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250206062300_AddVillaTable', N'8.0.0');
+2025-02-06 12:01:37.256 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250206062300_AddVillaTable', N'8.0.0');
+2025-02-06 12:01:37.257 +05:30 [DBG] Committing transaction.
+2025-02-06 12:01:37.260 +05:30 [DBG] Committed transaction.
+2025-02-06 12:01:37.261 +05:30 [DBG] Disposing transaction.
+2025-02-06 12:01:37.261 +05:30 [DBG] Closing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.261 +05:30 [DBG] Closed connection to database 'Villa' on server 'DESKTOP-KJC6B92' (0ms).
+2025-02-06 12:01:37.262 +05:30 [DBG] 'ApplicationDbContext' disposed.
+2025-02-06 12:01:37.263 +05:30 [DBG] Disposing connection to database 'Villa' on server 'DESKTOP-KJC6B92'.
+2025-02-06 12:01:37.263 +05:30 [DBG] Disposed connection to database '' on server '' (0ms).

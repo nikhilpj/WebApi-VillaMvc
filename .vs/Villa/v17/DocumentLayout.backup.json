@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\migrations\\20250206062300_addvillatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\migrations\\20250206062300_addvillatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\models\\villaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\models\\villaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\data\\villastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\models\\villaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\models\\villaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\villaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\villaapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|solutionrelative:villaapi\\models\\dto\\villadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01500D4E-4305-4B4B-8668-0ABDAD513A85}|VillaApi\\VillaApi.csproj|c:\\users\\lenovo\\desktop\\nikhil\\villa\\villaapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -38,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 30,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +66,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VillaApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VillaApi\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:24:25.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250206062300_AddVillaTable.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Migrations\\20250206062300_AddVillaTable.cs",
+              "RelativeDocumentMoniker": "VillaApi\\Migrations\\20250206062300_AddVillaTable.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Migrations\\20250206062300_AddVillaTable.cs",
+              "RelativeToolTip": "VillaApi\\Migrations\\20250206062300_AddVillaTable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:23:01.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VillaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\appsettings.json*",
+              "RelativeToolTip": "VillaApi\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T05:34:07.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VillaApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VillaApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:11:47.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "VillaApi.http",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\VillaApi.http",
               "RelativeDocumentMoniker": "VillaApi\\VillaApi.http",
@@ -63,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "VillaStore.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Data\\VillaStore.cs",
               "RelativeDocumentMoniker": "VillaApi\\Data\\VillaStore.cs",
@@ -76,33 +144,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "VillaDto.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Models\\Dto\\VillaDto.cs",
               "RelativeDocumentMoniker": "VillaApi\\Models\\Dto\\VillaDto.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Models\\Dto\\VillaDto.cs",
               "RelativeToolTip": "VillaApi\\Models\\Dto\\VillaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T09:19:33.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "VillaItem.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Models\\VillaItem.cs",
               "RelativeDocumentMoniker": "VillaApi\\Models\\VillaItem.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Models\\VillaItem.cs",
               "RelativeToolTip": "VillaApi\\Models\\VillaItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwoAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T08:58:55.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "VillaApiController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Controllers\\VillaApiController.cs",
               "RelativeDocumentMoniker": "VillaApi\\Controllers\\VillaApiController.cs",
@@ -115,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Readme.md",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Readme.md",
               "RelativeDocumentMoniker": "VillaApi\\Readme.md",
@@ -128,13 +196,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Program.cs",
               "RelativeDocumentMoniker": "VillaApi\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Nikhil\\Villa\\VillaApi\\Program.cs",
               "RelativeToolTip": "VillaApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T08:38:27.482Z",
               "EditorCaption": ""
